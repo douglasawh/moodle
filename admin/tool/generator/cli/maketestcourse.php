@@ -58,7 +58,7 @@ Options:
 --shortname      Shortname of course to create (required)
 --fullname       Fullname of course to create (optional)
 --summary        Course summary, in double quotes (optional)
---size           Size of course to create XS, S, M, L, XL, or XXL (required)
+--size           Size of course to create XS, S, M, L, or XL (required)
 --fixeddataset   Use a fixed data set instead of randomly generated data
 --filesizelimit  Limits the size of the generated files to the specified bytes
 --bypasscheck    Bypasses the developer-mode check (be careful!)
